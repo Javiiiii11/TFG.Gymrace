@@ -116,7 +116,7 @@ cd TFG-GymRace
     <!-- User Icon -->
     <img src="https://img.icons8.com/ios-filled/100/000000/user.png" width="50" alt="User icon" />
     <br/>
-    <strong>Javier Rdríguez Jiménez</strong>
+    <strong>Javier Rodríguez Jiménez</strong>
     <br/>
     🎓 Trabajo de Fin de Grado – Desarrollo de Aplicaciones Multiplataforma (DAM)
     <br/><br/>
