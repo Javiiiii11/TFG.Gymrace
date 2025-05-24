@@ -1,0 +1,25 @@
+README - GymRace Web
+
+¡Bienvenido a GymRace!
+
+GymRace es una aplicación móvil diseñada para ayudarte a mejorar tu entrenamiento físico con rutinas personalizadas, desafíos con amigos, dietas detalladas y una gran variedad de ejercicios explicados paso a paso.
+
+🔗 Enlace de descarga:
+Puedes acceder a la página oficial de descarga de GymRace en el siguiente enlace:
+
+ -->     https://tfg-gymrace-web.onrender.com
+
+Desde esta web podrás:
+- Descargar la aplicación oficial de GymRace.
+- Conocer más sobre sus funcionalidades.
+- Estar al tanto de futuras actualizaciones.
+
+📱 Requisitos:
+- Sistema operativo Android.
+- Conexión a internet para acceder a la web y descargar la app.
+
+📩 Soporte:
+La web al estar subida con un servidor gratuito limitado, la imagen central no llega a cargar y se nota que muy lenta. Para verla bien puedes visitar el git para ver la apariencia o ejecutarla localmente para ver que los errores que se ven en la web publica, cuando se ejecuta en local no sucenden.
+
+
+
