@@ -1,0 +1,20 @@
+⚠️ ¡IMPORTANTE! ⚠️
+EL EXE DE TFG ADMIN NO FUNCIONA, POR QUE FIREBASE LO PROHIBE POR POLITICA DE PRIVACIDAD DE DATOS.
+
+EL ARCHIVO `firebase_credentials.json`, TAMPOCO FUNCIONA EL QUE ESTA SUBIDO AL GITHUB POR TEMAS DE POLITICA DE FIREBASE IGUAL.
+
+PARA QUE FUNCIONE CORRECTAMENTE USAR EL ENVIADO POR MOODLE COMO ENTREGA Y EJECUTARLO COMO PONE EN EL GITHUB README:
+
+pip install -r requirements.txt
+python gymRaceAdmin.py
+
+-------------------------------------------------------------------------------
+
+El archivo de credenciales de Firebase que está en este repositorio no funcionará correctamente, ya que Google lo desactiva automáticamente al detectar que ha sido subido a un repositorio público.
+
+🔄 Sustituye el archivo firebase_credentials.json por el que se ha entregado en Moodle como parte del proyecto, o usa ese proyecto directamente.
+📁 Asegúrate de colocarlo justo donde esta el otro en el proyecto, para que la aplicación funcione sin problemas.
+
+✅ Una vez reemplazado, la aplicación funciona correctamente.
+
+❗ Cualquier problema de ejecución, comunícaselo a nuestro tutor para que pueda actualizar las credenciales si es necesario.
